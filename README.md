@@ -89,6 +89,8 @@ This project is structured to ensure a systematic and incremental development pr
 **NOTE:**
 Participants are encouraged to customize the user interface and incorporate additional features into the application. These modifications allow participants to demonstrate creativity, improve usability, and enhance the functionality of the project. Such enhancements align with the project’s objective of fostering innovative thinking while providing a personalized learning experience.
 
+---
+
 ### **Development Plan**
 
 #### **Week 1: Setup**
