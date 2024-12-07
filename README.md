@@ -221,8 +221,6 @@ Participants are encouraged to customize the user interface and incorporate addi
 ![Screenshot (107)](https://github.com/user-attachments/assets/181461f6-4d72-4dbe-a7ed-8bebe18fdef8)
 ![Screenshot (108)](https://github.com/user-attachments/assets/2bdfdfd0-99cb-4751-a079-2b4c82346728)
 
-https://youtu.be/-42K44A1oMA?start=3671&end=3720
-
 ---
 
 # References:
