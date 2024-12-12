@@ -88,8 +88,7 @@ This section illustrates the complete workflow for users and admins in the **Boo
 
 ### **System Architecture**
 This section demonstrates the high-level architecture of the **BookMate** app, showcasing the interaction between the frontend, backend, and database. It highlights how users perform actions like browsing, adding, and managing books, with all requests processed by the backend and stored in the database.
-![image](https://github.com/user-attachments/assets/933c504b-5359-46b9-85e1-279b959c4995)
-
+![image](https://github.com/user-attachments/assets/d4644c14-5ea1-4cfb-9546-8a70c2a42e77)
 
 ---
 
